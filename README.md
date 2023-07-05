@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CC-Dh
-- 👀 I’m interested in Embedded C/C++, Arduino, Mbed-OS, micropython
+- 👀 I’m interested in Embedded C/C++, Arduino, FreeRTOS, Mbed-OS, micropython
 - 🌱 I’m currently learning micropython, RTOS
 - 💞️ I’m looking to collaborate on ... Not now..
 - 📫 How to reach me: ccd[at]dharmanitech[dot]com
